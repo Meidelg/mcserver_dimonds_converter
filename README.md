@@ -1,1 +1,1 @@
-https://meidelg.github.io/mcserver_dimonds_converter/
+https://meidelg.github.io/mcserver_dimonds_converter/converter.html
